@@ -1,0 +1,6 @@
+alibabacloud_apig20240327>=1.0.0
+alibabacloud_credentials>=0.3.0
+alibabacloud_tea_openapi>=0.3.0
+alibabacloud_tea_util>=0.3.0
+schedule>=1.2.0
+python-dotenv>=1.0.1
